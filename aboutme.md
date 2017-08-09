@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who is this guy?
-subtitle: The guy who *gets shit done for you
+subtitle: The guy who _gets sh*t done for you_
 ---
 
 My name is Inigo Montoya. I have the following qualities:
