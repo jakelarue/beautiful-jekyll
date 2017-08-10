@@ -19,7 +19,7 @@ My name is Inigo Montoya. I have the following qualities:
 - Extremely scrappy and well-versed in **market & messaging research, qualitative & quantitive data, UX/UI design and A/B Testing**
 - Deep and clear understanding of human buying patterns 
 - I use **data-driven research to study the behaviors, mindsets, emotions and needs of your target audience**
-- You get a **organized, highly-proactive, entrepreneurial-spirited, conversion-getting hustler** that hits deadlines and **produces bottom-line boosting copy** - without the micromanaging headaches you loathe 
+- You get an **organized, highly-proactive, entrepreneurial-spirited, conversion-getting hustler** that hits deadlines and **produces bottom-line boosting copy** - without the micromanaging headaches you loathe 
 - I could work collaboratively with your team of stakeholders, designers and developers - or I could fly solo - either way, **you could bet the house that I'm the sure shot you need** 
 
 
