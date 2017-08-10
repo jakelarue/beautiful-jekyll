@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Much Better Funnels
+title: Much Better 
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -42,7 +42,7 @@ avatar:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Much Better Funnels
+  name: Much Better 
   email: "youremail@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
@@ -85,7 +85,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MuchBetterFunnels"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "MuchBetter"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
