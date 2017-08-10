@@ -4,15 +4,22 @@ title: Waddaya know, waddaya see...
 subtitle: Looks like you want to work with me
 ---
 
-## ready to kick your marketing ROI up a notch? 
+## Ready to kick your marketing ROI up a notch? 
 
-My name is Inigo Montoya. I have the following qualities:
+You've finally made the call. You wanna get the ball rolling and boost your bottom-line. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### We might be a fit if the following are true:
 
-### my history
+- You have a business that does $100,000 in annual revenue. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+### Terms:
+
+- Payments are made via Stripe, Paypal or bank transfer 
+- A $499 non-refundable deposit gets you a slot on my calendar 
+- Any projects under $2,000 are paid in advance _before_ any work is started
+- 
+
+## Sounds good? Ok great. Keep reading...
+
