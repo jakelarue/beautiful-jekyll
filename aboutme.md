@@ -31,9 +31,6 @@ When you need to get more clicks, a lift in conversions and bottom-line boosting
 
 
 
-
-</div>
-
 <div id="contactme-section">
 <h1 id="contact">Contact</h1>
 
