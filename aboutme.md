@@ -32,11 +32,6 @@ When you need to get more clicks, a lift in conversions and bottom-line boosting
 
 
 
-<div class="container" role="main">
-<div class="row">
-  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-    <div id="aboutme-section">
-
 </div>
 
 <div id="contactme-section">
