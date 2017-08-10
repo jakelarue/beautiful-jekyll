@@ -4,10 +4,6 @@ title: "Who is this guy?"
 subtitle: The guy who gets sh*t done for you
 ---
 
-
-## Why Jake?
-
-
 Everybody has a *"guy"*...
 
 A guy for the car... 
