@@ -52,36 +52,21 @@ You can <a href="mailto:jakeforcopy@gmail.com?subject=What's up, Jake?">email me
 
 If you'd like to set up a meeting with me - to discuss potential projects or need any paid help, <a href="https://calendly.com/getjake/quickchat">click here to schedule a quick 15-min chat</a> and choose a slot that best suits you. 
 
+You could also shoot me a message using the form below:
 
 <form action="https://formspree.io/jakeforcopy@gmail.com" method="POST" class="form" id="contact-form">
-<p>You can also shoot me a quick message using the form below:</p>
-
 <div class="row">
   <div class="col-xs-6">
     <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
-    
-    
   </div>
-  
-  
   <div class="col-xs-6">
     <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
   </div>
-  
 </div>
-
-
 <input type="hidden" name="_subject" value="New submission from jakelarue.github.io">
-
 <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
-
-
 <input type="text" name="_gotcha" style="display:none">
-
-
 <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!">
-
-
 <button type="submit" class="btn btn-lg btn-primary">Drop the line</button>
 
 
