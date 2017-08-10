@@ -25,13 +25,9 @@ You won't just need a guy - will need the **right** go-to guy.
 And guess who's in the business of getting more clicks, increasing conversions and delivering bottom-line boosting copy?
 
 ## This guy.
-
 <br>
-
 ### Why am I a sure shot?
-
 <br>
-
 - I move quickly, break stuff and **TEST EVERYTHING**
 - I follow a **pretty straight-forward, refined process that eliminates the bullshit** - tested and proven to be effective and efficient - so you won't ever get lost in the sauce and you're *always in-the-know*
 - 2+ years of **copywriting, conversion optimization and digital marketing experience**
