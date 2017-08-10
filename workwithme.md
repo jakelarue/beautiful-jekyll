@@ -18,7 +18,7 @@ You've finally made the call. You wanna get the ball rolling and boost your bott
 
 - Payments are made via Stripe, Paypal or bank transfer 
 - A $499 non-refundable deposit gets you a slot on my calendar 
-- Any projects under $2,000 are paid in advance _before_ any work is started
+- Any projects under *$2,000 USD* are paid in advance _before_ any work is started
 - 
 
 ## Sounds good? Ok great. Keep reading...
