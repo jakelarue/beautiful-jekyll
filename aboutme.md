@@ -27,7 +27,7 @@ And guess who's in the business of getting more clicks, increasing conversions a
 <p style="text-align:center"><img src="http://jakelarue.github.io/img/thisguy2.png"/></p>
 
 <h2 style="text-align: center;" markdown="1">This Guy.</h2>
-
+<br>
 ### Why am I a sure shot?
 
 
