@@ -26,8 +26,6 @@ And guess who's in the business of getting more clicks, increasing conversions a
 
 <p style="text-align:center"><img src="http://jakelarue.github.io/img/thisguy2.png"/></p>
 
-![Bilby Stampede](http://jakelarue.github.io/img/thisguy2.png)
-
 <h2 style="text-align: center;" markdown="1">This Guy.</h2>
 
 ### Why am I a sure shot?
