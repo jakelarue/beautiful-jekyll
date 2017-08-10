@@ -32,13 +32,6 @@ When you need to get more clicks, a lift in conversions and bottom-line boosting
 
 ### Get in touch
 
-<!--
-<div class="alert alert-danger" role="alert">
-I will be away until July 26, with very limited time to work. My responses will be slow during this period.
-</div>
--->
-
-
 You can <a href="mailto:jakeforcopy@gmail.com?subject=What's up, Jake?">email me</a> or find me <a href="https://twitter.com/daattali">on Twitter</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!
 
 I do a lot of consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects or need any paid help.
@@ -60,4 +53,5 @@ If you'd like to set up a meeting with me, <a href="https://calendly.com/getjake
 <input type="text" name="_gotcha" style="display:none">
 <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!">
 <button type="submit" class="btn btn-lg btn-primary">Drop the line</button>
+
 </form>
