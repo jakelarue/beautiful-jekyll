@@ -11,13 +11,18 @@ You've finally made the call. You wanna get the ball rolling and boost your bott
 
 ### We might be a fit if the following are true:
 
-- You have a business that does over $100,000 in annual revenue. 
+- You have a business that does over **$100,000 in annual revenue**
 
+
+
+
+
+**Note:** I *don't* write blog posts, but I can point you in the direction of some kick-ass content writers, just ask
 
 ### Terms:
 
 - Payments are made via Stripe, Paypal or bank transfer 
-- A $499 non-refundable deposit gets you a slot on my calendar 
+- A **$499 non-refundable deposit** gets you a slot on my calendar 
 - Any projects under **$1,500 USD** are paid in advance _before_ any work is started
 - 
 
@@ -25,5 +30,6 @@ You've finally made the call. You wanna get the ball rolling and boost your bott
 
 <button name="button">Click here</button>
 <sub><sup>(powered by stripe)</sup></sub>
+
 <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get X - $750</a>
 <sub><sup>(powered by stripe)</sup></sub>
