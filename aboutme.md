@@ -51,9 +51,13 @@ If you'd like to set up a meeting with me, <a href="https://calendly.com/getjake
   
 </div>
 <input type="hidden" name="_subject" value="New submission from jakelarue.github.io">
+
 <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+
 <input type="text" name="_gotcha" style="display:none">
+
 <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!">
+
 <button type="submit" class="btn btn-lg btn-primary">Drop the line</button>
 
 </form>
