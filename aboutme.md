@@ -35,16 +35,17 @@ When you need to get more clicks, a lift in conversions and bottom-line boosting
 
 You can <a href="mailto:jakeforcopy@gmail.com?subject=What's up, Jake?">email me</a> if you want to get in touch.
 
+If you'd like to set up a meeting with me, <a href="https://calendly.com/getjake/quickchat">click here to schedule a quick 15-min chat</a> and choose a slot that best suits you. 
 
 
 
 
 
-You can <a href="mailto:jakeforcopy@gmail.com?subject=What's up, Jake?">email me</a> or find me <a href="https://twitter.com/daattali">on Twitter</a> if you want to get in touch.
+
+
 
 I do a lot of consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects or need any paid help.
 
-If you'd like to set up a meeting with me, <a href="https://calendly.com/getjake/quickchat">click here to schedule a quick 15-min chat</a> based on your availability.
 
 <form action="https://formspree.io/jakeforcopy@gmail.com" method="POST" class="form" id="contact-form">
 <p>You can also shoot me a quick message using the form below:</p>
