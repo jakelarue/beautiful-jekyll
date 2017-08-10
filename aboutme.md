@@ -25,13 +25,11 @@ You won't just need a guy - will need the **right** go-to guy.
 And guess who's in the business of getting more clicks, increasing conversions and delivering bottom-line boosting copy?
 
 ## This guy.
-br {
-        line-height: 100%;
-     }
+p.small {line-height: 0.4cm}
+p.big {line-height: 0.9cm}
 ### Why am I a sure shot?
-br {
-        line-height: 100%;
-     }
+p.small {line-height: 0.4cm}
+p.big {line-height: 0.9cm}
 - I move quickly, break stuff and **TEST EVERYTHING**
 - I follow a **pretty straight-forward, refined process that eliminates the bullshit** - tested and proven to be effective and efficient - so you won't ever get lost in the sauce and you're *always in-the-know*
 - 2+ years of **copywriting, conversion optimization and digital marketing experience**
@@ -45,7 +43,7 @@ br {
 - You get an **organized, highly-proactive, entrepreneurial-spirited, conversion-getting hustler** that hits deadlines and **produces bottom-line boosting copy** - without the micromanaging headaches you loathe 
 - I could work collaboratively with your team of stakeholders, designers and developers - or I could fly solo - either way, **you could bet the house that I'm the sure shot you need** 
 
-
+boom
 
 ## Get in touch
 
