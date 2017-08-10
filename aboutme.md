@@ -33,14 +33,14 @@ When you need to get more clicks, a lift in conversions and bottom-line boosting
 ### Get in touch
 
 
-You can get in touch
+You can <a href="mailto:jakeforcopy@gmail.com?subject=What's up, Jake?">email me</a> if you want to get in touch.
 
 
 
 
 
 
-You can <a href="mailto:jakeforcopy@gmail.com?subject=What's up, Jake?">email me</a> or find me <a href="https://twitter.com/daattali">on Twitter</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!
+You can <a href="mailto:jakeforcopy@gmail.com?subject=What's up, Jake?">email me</a> or find me <a href="https://twitter.com/daattali">on Twitter</a> if you want to get in touch.
 
 I do a lot of consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects or need any paid help.
 
