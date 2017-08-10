@@ -27,4 +27,4 @@ You've finally made the call. You wanna get the ball rolling and boost your bott
 
 <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get X - $750</a>
 
-(powered by stripe)
+<sub><sup>(powered by stripe)</sup></sub>
