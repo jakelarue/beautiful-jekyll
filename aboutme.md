@@ -30,9 +30,7 @@ When you need to get more clicks, a lift in conversions and bottom-line boosting
 
 
 
-
-<div id="contactme-section">
-<h1 id="contact">Contact</h1>
+### Get in touch
 
 <!--
 <div class="alert alert-danger" role="alert">
@@ -63,5 +61,3 @@ If you'd like to set up a meeting with me, <a href="https://calendly.com/getjake
 <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!">
 <button type="submit" class="btn btn-lg btn-primary">Drop the line</button>
 </form>
-
-</div>
