@@ -11,7 +11,11 @@ You've finally made the call. You wanna get the ball rolling and boost your bott
 
 ### We might be a fit if the following are true:
 
-- You have a business that does over **$100,000 in annual revenue**
+- You have a good, solid product or service and a great reputation
+- Your business makes over **$100,000 in annual revenue**
+- You **MUST** follow directions. (Don't worry, I won't ask you to do anything weird.)
+- 
+
 
 
 
@@ -26,7 +30,11 @@ You've finally made the call. You wanna get the ball rolling and boost your bott
 - Any projects under **$1,500 USD** are paid in advance _before_ any work is started
 - 
 
-## Sounds good? Ok great. Keep reading...
+Sounds good? Ok great. Keep reading...
+
+## Here's what I want you to do next
+
+
 
 <button name="button">Click here</button>
 <sub><sup>(powered by stripe)</sup></sub>
