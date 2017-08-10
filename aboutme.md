@@ -10,21 +10,26 @@ subtitle: The guy who gets sh*t done for you
 
 Everybody has a *"guy"*...
 
-A guy for the car... (*if* you're a woman! **Tip:** Men should learn to work on their own cars)
+A guy for the car... 
 
 A guy for the lastest sports picks...
 
 A guy for all that techy sh*t you don't understand or feel like learning... 
 
-Everybody has a *guy*...
+Everybody has a *"guy"*...
 
-Now when you need someone who's gonna lift conversions and bring in more cash for your business...
+But what about when you need someone to: 
+
+- Lift conversions 
+- Bring in more sales and revenue 
+- And actually generate a better ROI 
 
 You won't just need a guy - will need the **right** go-to guy.
 
-And guess who's in the business of getting more clicks, better conversions and delivering bottom-line boosting copy?
+And guess who's in the business of getting more clicks, increasing conversions and delivering bottom-line boosting copy?
 
 ## This guy.
+
 
 - I move quickly, break stuff and **TEST EVERYTHING**
 - I follow a **pretty straight-forward, refined process that eliminates the bullshit** - tested and proven to be effective and efficient - so you won't ever get lost in the sauce and you're *always in-the-know*
