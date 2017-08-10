@@ -26,9 +26,7 @@ And guess who's in the business of getting more clicks, increasing conversions a
 
 ![Bilby Stampede](http://jakelarue.github.io/img/thisguy2.png)
 
-# This guy.
-
-
+<h2 style="text-align: center;" markdown="1">This Guy.</h2>
 
 ### Why am I a sure shot?
 
