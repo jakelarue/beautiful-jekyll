@@ -28,11 +28,6 @@ And guess who's in the business of getting more clicks, increasing conversions a
 
 ![Bilby Stampede](http://jakelarue.github.io/img/thisguy2.png)
 
-
-<div class="text-center">
-  <img src="{{jakelarue.github.io/img/12647054,width=800.png" />
-</div>
-
 ### Why am I a sure shot?
 
 
