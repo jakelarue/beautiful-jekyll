@@ -1,19 +1,30 @@
 ---
 layout: page
-title: Who is this guy?
+title: "Who is this guy?"
 subtitle: The guy who gets sh*t done for you
 ---
 
 
-### Why Jake?
+## Why Jake?
 
-When you need to fly, you board a plane... 
 
-When you need an oil change, you call a mechanic...
+Everybody has a *"guy"*...
 
-When you need to get more clicks, a lift in conversions and bottom-line boosting copy...
+A guy for the car... (*if* you're a woman! **Tip:** Men should learn to work on their own cars)
 
-**I'm your guy.**
+A guy for the lastest sports picks...
+
+A guy for all that techy sh*t you don't understand or feel like learning... 
+
+Everybody has a *guy*...
+
+Now when you need someone who's gonna lift conversions and bring in more cash for your business...
+
+You won't just need a guy - will need the **right** go-to guy.
+
+And guess who's in the business of getting more clicks, better conversions and delivering bottom-line boosting copy?
+
+## This guy.
 
 - I move quickly, break stuff and **TEST EVERYTHING**
 - I follow a **pretty straight-forward, refined process that eliminates the bullshit** - tested and proven to be effective and efficient - so you won't ever get lost in the sauce and you're *always in-the-know*
@@ -30,7 +41,7 @@ When you need to get more clicks, a lift in conversions and bottom-line boosting
 
 
 
-### Get in touch
+## Get in touch
 
 
 You can <a href="mailto:jakeforcopy@gmail.com?subject=What's up, Jake?">email me</a> if you want to get in touch.
