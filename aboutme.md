@@ -53,6 +53,7 @@ If you'd like to set up a meeting with me - to discuss potential projects or nee
 You could also shoot me a message using the form below:
 
 <form action="https://formspree.io/jakeforcopy@gmail.com" method="POST" class="form" id="contact-form">
+
 <div class="row">
   <div class="col-xs-6">
     <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
@@ -60,6 +61,7 @@ You could also shoot me a message using the form below:
   <div class="col-xs-6">
     <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
   </div>
+<br>
 </div>
 <input type="hidden" name="_subject" value="New submission from jakelarue.github.io">
 <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
