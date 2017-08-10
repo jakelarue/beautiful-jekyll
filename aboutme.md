@@ -24,9 +24,11 @@ You won't just need a guy - will need the **right** go-to guy.
 
 And guess who's in the business of getting more clicks, increasing conversions and delivering bottom-line boosting copy?
 
+![Bilby Stampede](http://jakelarue.github.io/img/thisguy2.png)
+
 ## This guy.
 
-![Bilby Stampede](http://jakelarue.github.io/img/thisguy2.png)
+
 
 ### Why am I a sure shot?
 
