@@ -25,4 +25,4 @@ You've finally made the call. You wanna get the ball rolling and boost your bott
 
 <button name="button">Click here</button>
 
-<a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
+<a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get X - $750</a>
