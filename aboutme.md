@@ -40,6 +40,7 @@ If you'd like to set up a meeting with me, <a href="https://calendly.com/getjake
 
 <form action="https://formspree.io/jakeforcopy@gmail.com" method="POST" class="form" id="contact-form">
 <p>You can also shoot me a quick message using the form below:</p>
+
 <div class="row">
   <div class="col-xs-6">
     <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
@@ -47,6 +48,7 @@ If you'd like to set up a meeting with me, <a href="https://calendly.com/getjake
   <div class="col-xs-6">
     <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
   </div>
+  
 </div>
 <input type="hidden" name="_subject" value="New submission from jakelarue.github.io">
 <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
