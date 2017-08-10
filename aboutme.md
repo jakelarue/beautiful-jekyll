@@ -7,7 +7,13 @@ subtitle: The guy who gets sh*t done for you
 
 ### Why Jake?
 
-My name is Inigo Montoya. I have the following qualities:
+When you need to fly, you board a plane... 
+
+When you need an oil change, you call a mechanic...
+
+When you need to get more clicks, a lift in conversions and bottom-line boosting copy...
+
+**I'm your guy.**
 
 - I move quickly, break stuff and **TEST EVERYTHING**
 - I follow a **pretty straight-forward, refined process that eliminates the bullshit** - tested and proven to be effective and efficient - so you won't ever get lost in the sauce and you're *always in-the-know*
