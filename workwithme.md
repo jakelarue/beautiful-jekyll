@@ -11,7 +11,7 @@ You've finally made the call. You wanna get the ball rolling and boost your bott
 
 ### We might be a fit if the following are true:
 
-- You have a business that does $100,000 in annual revenue. 
+- You have a business that does over $100,000 in annual revenue. 
 
 
 ### Terms:
