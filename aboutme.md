@@ -33,9 +33,9 @@ When you need to get more clicks, a lift in conversions and bottom-line boosting
 
 
 <div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <div id="aboutme-section">
+<div class="row">
+  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
@@ -73,7 +73,7 @@ The <strong><a href="/projects">projects</a></strong> page is a nice place to se
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-Grew up in <i>Tel Aviv, Israel</i>, moved to <i>Toronto, Canada</i> during my teens, worked in <i>San Francisco</i> after undergrad, crossed the border again to <i>Vancouver, Canada</i> for grad school, spent many months in other countries backpacking.
+Grew up in New York City,....
 </p>
 
 </div>
@@ -93,20 +93,20 @@ I will be away until July 26, with very limited time to work. My responses will 
 <p>If you'd like to set up a meeting with me, <a href="https://calendly.com/getjake/quickchat">click here to schedule a quick 15-min chat</a> based on your availability.</p>
 
 <form action="https://formspree.io/jakeforcopy@gmail.com" method="POST" class="form" id="contact-form">
-  <p>You can also shoot me a quick message using the form below:</p>
-  <div class="row">
-    <div class="col-xs-6">
-      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
-    </div>
-    <div class="col-xs-6">
-      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
-    </div>
+<p>You can also shoot me a quick message using the form below:</p>
+<div class="row">
+  <div class="col-xs-6">
+    <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
   </div>
-  <input type="hidden" name="_subject" value="New submission from jakelarue.github.io">
-  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
-  <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!">
-  <button type="submit" class="btn btn-lg btn-primary">Drop the line</button>
+  <div class="col-xs-6">
+    <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
+  </div>
+</div>
+<input type="hidden" name="_subject" value="New submission from jakelarue.github.io">
+<textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+<input type="text" name="_gotcha" style="display:none">
+<input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!">
+<button type="submit" class="btn btn-lg btn-primary">Drop the line</button>
 </form>
 
 </div>
