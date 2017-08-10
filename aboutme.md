@@ -26,7 +26,7 @@ And guess who's in the business of getting more clicks, increasing conversions a
 
 ![Bilby Stampede](http://jakelarue.github.io/img/thisguy2.png)
 
-## This guy.
+# This guy.
 
 
 
