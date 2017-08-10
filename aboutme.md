@@ -26,6 +26,9 @@ And guess who's in the business of getting more clicks, increasing conversions a
 
 ## This guy.
 
+<div class="text-center">
+  <img src="{{ site.baseurl }}/img/404-southpark.png" />
+</div>
 
 ### Why am I a sure shot?
 
