@@ -32,6 +32,11 @@ And guess who's in the business of getting more clicks, increasing conversions a
 
 I've been a copywriter since early 2015 - first for my own side projects/businesses, and later for local SMBs and service companies, as well as numerous entrepreneurs and consultants. 
 
+A few things you should know about me:
+
+- I don't write for passion - I write for results
+- I actually drink my own kool-aid, so you're not dealing with a charlatan - I actually write for my own businesses
+- And I'm a heavy cryptocurrency enthusiast that loves to take random road trips and play poker
 
 
 ### Why am I a sure shot?
