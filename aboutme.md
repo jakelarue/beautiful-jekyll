@@ -28,6 +28,12 @@ And guess who's in the business of getting more clicks, increasing conversions a
 
 <h2 style="text-align: center;" markdown="1">This Guy.</h2>
 <br>
+
+
+I've been a copywriter since early 2015 - first for my own side projects/businesses, and later for local SMBs and service companies, as well as numerous entrepreneurs and consultants. 
+
+
+
 ### Why am I a sure shot?
 
 
@@ -44,7 +50,6 @@ And guess who's in the business of getting more clicks, increasing conversions a
 - You get an **organized, highly-proactive, entrepreneurial-spirited, conversion-getting hustler** that hits deadlines and **produces bottom-line boosting copy** - without the micromanaging headaches you loathe 
 - I could work collaboratively with your team of stakeholders, designers and developers - or I could fly solo - either way, **you could bet the house that I'm the sure shot you need** 
 
-boom
 
 ## Get in touch
 
