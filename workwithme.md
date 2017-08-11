@@ -24,17 +24,21 @@ If you don't *really* know your numbers (aov, ltv, revenue & business goals) **o
 
 If you think I just write words and *vioala* - sales - I'm not your guy. 
 
+After a while, I got a feel for what clients would benefit the most from my work. I had to become **VERY picky** about who I could help, so I came up with a strict (but reasonable) set of criteria that needs to be met in order for us to move forward.
 
-### But we might be a fit if the following are true:
+### We might be a fit if the following are true:
 
 - You have a good, solid product or service and a great reputation
+- You must have a steady flow of leads and customers - ideally 15,000 unique vistors
 - Your business makes over **$100,000 in annual revenue**
 - You **MUST** follow directions. (Don't worry, I won't ask you to do anything weird.)
 - 
 
 
+That's it! Those are all my requirements. Still with me? Good. Keep reading...
 
-**Note:** I *don't* write blog posts, but I can point you in the direction of some kick-ass content writers, just ask
+
+**Note:** I *don't* write blog posts, but I can point you in the direction of some kick-ass content writers, just ask.
 
 ### Terms:
 
