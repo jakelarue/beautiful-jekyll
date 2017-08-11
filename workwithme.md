@@ -34,9 +34,6 @@ If you think I just write words and *vioala* - sales - I'm not your guy.
 
 
 
-
-
-
 **Note:** I *don't* write blog posts, but I can point you in the direction of some kick-ass content writers, just ask
 
 ### Terms:
