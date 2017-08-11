@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Who is this guy?"
+title:
 subtitle: 
 use-site-title: false
 ---
