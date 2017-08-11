@@ -58,12 +58,12 @@ You could also shoot me a message using the form below:
 <form action="https://formspree.io/jakeforcopy@gmail.com" method="POST" class="form" id="contact-form">
 
 <div class="row">
-  <div class="col-xs-6">
-    <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
-  </div>
-  <div class="col-xs-6">
-    <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
-  </div>
+<div class="col-xs-6">
+<input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
+</div>
+<div class="col-xs-6">
+<input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
+</div>
 <br>
 </div>
 <input type="hidden" name="_subject" value="New submission from jakelarue.github.io">
