@@ -20,7 +20,7 @@ If you're looking for a silver bullet solution - I'm not your guy.
 
 If you're **not** willing to put in the work - I'm not your guy. 
 
-If you don't *really* know your numbers (aov, ltv, revenue & business goals) **or** feel uncomfortable sharing that type of information - say it with me... I'm not your guy. 
+If you don't *really* know your numbers (aov, ltv, revenue & business goals) **or** feel uncomfortable sharing that type of information - yup, you guessed it... I'm not your guy. 
 
 If you think I just write words and *vioala* - sales - I'm not your guy. 
 
