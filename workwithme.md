@@ -18,11 +18,11 @@ Uh, no. It does **not** work like that.
 
 If you're looking for a silver bullet solution - I'm not your guy. 
 
-If you're **not** willing to put in the work - I'm not your guy. 
-
-If you don't *really* know your numbers (aov, ltv, revenue & business goals) **or** feel uncomfortable sharing that type of information - yup, you guessed it... I'm not your guy. 
+If you're **not** willing to put in the work, even after we're done with a project - I'm not your guy. 
 
 If you think I just write words and *vioala* - sales - I'm not your guy. 
+
+If you don't *really* know your numbers (aov, ltv, revenue & business goals) **or** feel uncomfortable sharing that type of information - yup, you guessed it... I'm not your guy. 
 
 After a while, I got a feel for what clients would benefit the most from my work. I had to become **VERY PICKY** about who I could help, so I came up with a strict (but reasonable) set of criteria that needs to be met in order for us to move forward.
 
