@@ -22,7 +22,7 @@ But what about when you need someone to:
 
 You won't just need a guy - will need the **right** go-to guy.
 
-And guess who's in the business of getting more clicks, increasing conversions and delivering bottom-line boosting copy?
+And guess who's in the business of getting more clicks, increasing conversions and delivering bottom-line boosting results?
 
 <p style="text-align:center"><img src="http://jakelarue.github.io/img/thisguy2.png"/></p>
 
