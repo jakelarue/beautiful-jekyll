@@ -24,7 +24,7 @@ If you don't *really* know your numbers (aov, ltv, revenue & business goals) **o
 
 If you think I just write words and *vioala* - sales - I'm not your guy. 
 
-After a while, I got a feel for what clients would benefit the most from my work. I had to become **VERY picky** about who I could help, so I came up with a strict (but reasonable) set of criteria that needs to be met in order for us to move forward.
+After a while, I got a feel for what clients would benefit the most from my work. I had to become **VERY PICKY** about who I could help, so I came up with a strict (but reasonable) set of criteria that needs to be met in order for us to move forward.
 
 ### We might be a fit if the following are true:
 
