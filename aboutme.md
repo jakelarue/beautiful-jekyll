@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Who is this guy?"
-subtitle: The guy who gets sh*t done for you
+title: Hi, I'm Jake
+subtitle: A conversion optimization consultant who writes copy
 ---
 
 Everybody has a *"guy"*...
@@ -12,15 +12,13 @@ A guy for the lastest sports picks...
 
 A guy for all that techy sh*t you don't understand or feel like learning... 
 
-Everybody has a *"guy"*...
+But what about when sales are down, you're out-of-touch with your audience and your marketing strategies just aren't cutting it...
 
-But what about when you need someone to: 
+Sure, you can hire a fancy-sounding writer. But that won't put more bucks in the bank. 
 
-- Lift conversions 
-- Bring in more sales and revenue 
-- And actually generate a better ROI 
+When you need someone to actually bring in more sales and generate a better ROI...
 
-You won't just need a guy - will need the **right** go-to guy.
+### You'll need to hire a conversion copywriter
 
 And guess who's in the business of getting more clicks, increasing conversions and delivering bottom-line boosting results?
 
