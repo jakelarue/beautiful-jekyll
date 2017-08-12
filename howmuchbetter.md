@@ -4,7 +4,7 @@ title: M
 subtitle: x
 ---
 
-### "C'mon be honest, is your copy really THAT much better" 
+### "C'mon be real, is your copy really THAT much better?" 
 
 That's one question I hear **every. single. time.**
 
