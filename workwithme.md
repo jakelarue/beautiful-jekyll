@@ -22,6 +22,8 @@ If you are:
 
 And if you don't *really* know your numbers (aov, ltv, revenue & business goals) **or** feel uncomfortable sharing that information - yup, you guessed it... I'm not your guy. 
 
+I like digging into businesses, learning the ins-and-outs to find out how we can take your marketing to the next level. 
+
 After a while, I got a feel for which type of clients would benefit the most from my work. I had to become **VERY PICKY** about who I could help, so I came up with a strict (but reasonable) set of criteria that needs to be met in order for us to move forward.
 
 ### We might be a fit if the following are true:
