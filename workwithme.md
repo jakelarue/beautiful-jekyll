@@ -10,12 +10,11 @@ You wanna get the ball rolling and boost your bottom-line.
 
 ### Hold your horses - this isn't for everyone...
 
-... Most people think: "Just make it grow". Uh, no. It does **not** work like that. 
+Most people think: "Just make it grow". Uh, no. It does **not** work like that. 
 
 I learned (the hard way) that providing a great ROI isn't easy. 
 
-If you are:
-
+I say that, to say this - if you are:
 - Looking for a silver bullet solution - I'm not your guy. 
 - **Not** willing to put in the work, even after we're done with a project - I'm not your guy. 
 - Thinking I just write words and *vioala* sales - I'm not your guy. 
