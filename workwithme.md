@@ -4,9 +4,13 @@ title: Work With Me
 subtitle: To get more conversions, clicks and cash
 ---
 
-## So you've made the call
+## Running a business is tough enough...
 
-You wanna get the ball rolling and boost your bottom-line. 
+Now when you...
+
+
+
+### You wanna get the ball rolling and boost your bottom-line. 
 
 ### Hold your horses - this isn't for everyone...
 
