@@ -19,9 +19,9 @@ I say that, to say this - if you are:
 - **Not** willing to put in the work, even after we're done with a project - I'm not your guy. 
 - Thinking I just write words and *vioala* sales - I'm not your guy. 
 
-And if you don't *really* know your numbers (aov, ltv, revenue & business goals) **or** feel uncomfortable sharing that information - yup, you guessed it... I'm not your guy. 
+And if you don't *really* know your numbers (aov, ltv, etc.) **or** feel uncomfortable sharing that information - I get it and yup you guessed it - I'm not your guy. 
 
-I like digging into businesses, learning the ins-and-outs to find out how we can take your marketing to the next level. 
+I like digging into businesses, getting behind-the-scenes and learning the ins-and-outs to find out how we can take your marketing to the next level. 
 
 After a while, I got a feel for which type of clients would benefit the most from my work. I had to become **VERY PICKY** about who I could help, so I came up with a strict (but reasonable) set of criteria that needs to be met in order for us to move forward.
 
@@ -46,7 +46,7 @@ That's it! Those are all my requirements. Still with me? Good. Keep reading...
 - Any projects under **$1,500 USD** are paid in advance _before_ any work is started
 - 
 
-Sounds good? Ok great. Keep reading...
+Sounds good? Cool. 
 
 ## Here's what I want you to do next
 
