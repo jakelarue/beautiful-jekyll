@@ -26,13 +26,13 @@ I like digging into businesses, learning the ins-and-outs to find out how we can
 After a while, I got a feel for which type of clients would benefit the most from my work. I had to become **VERY PICKY** about who I could help, so I came up with a strict (but reasonable) set of criteria that needs to be met in order for us to move forward.
 
 ### We might be a fit if the following are true:
-<br style="line-height:.05px;" />
+
 - You have a good, solid product or service and a great reputation
 - You must have a steady flow of leads and customers - ideally **15,000 unique vistors**
 - Your business makes over **$100,000 in annual revenue**
 - You **MUST** follow directions. (Don't worry, I won't ask you to do anything weird.)
 - 
-m
+
 
 That's it! Those are all my requirements. Still with me? Good. Keep reading...
 
