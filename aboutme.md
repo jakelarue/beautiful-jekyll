@@ -20,7 +20,7 @@ When you need someone to actually bring in more sales and generate a better ROI.
 
 ### You'll need to hire a conversion copywriter
 
-And guess who's in the business of getting more clicks, increasing conversions and delivering bottom-line boosting results?
+And guess who's in the business of **getting more clicks, increasing conversions and delivering bottom-line boosting results?**
 
 <p style="text-align:center"><img src="http://jakelarue.github.io/img/thisguy2.png"/></p>
 
