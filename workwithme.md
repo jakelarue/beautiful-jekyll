@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work With Me
-subtitle: To get more conversions, clicks and cash
+subtitle: To get more clicks, conversions and cash
 ---
 
 ## Running a business is tough enough...
@@ -10,13 +10,13 @@ Now when you...
 
 
 
-### You wanna get the ball rolling and boost your bottom-line. 
+### You know what you want to say, you just don't know how to say it...
 
 ### Hold your horses - this isn't for everyone...
 
 Most people think: "Just make it grow". 
 
-Uh, no. It does **not** work like that. I learned (the hard way) that providing a great ROI isn't easy. 
+I learned (the hard way) that providing a great ROI isn't easy. 
 
 I say that, to say this - if you are:
 - Looking for a silver bullet solution - I'm not your guy. 
