@@ -57,9 +57,9 @@ A few things you should know about me:
 
 
 <p float="left">
-  <img src="http://jakelarue.github.io/img/IMG_8893.PNG" width="200" />
-  <img src="http://jakelarue.github.io/img/IMG_8894.PNG" width="200" /> 
-  <img src="http://jakelarue.github.io/img/IMG_8895.PNG" width="200" />
+  <img src="http://jakelarue.github.io/img/IMG_8893.PNG" width="230" />
+  <img src="http://jakelarue.github.io/img/IMG_8894.PNG" width="230" /> 
+  <img src="http://jakelarue.github.io/img/IMG_8895.PNG" width="230" />
 </p>
 
 ## Get in touch
