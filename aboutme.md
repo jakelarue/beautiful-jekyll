@@ -55,6 +55,8 @@ A few things you should know about me:
 - You get an **organized, highly-proactive, entrepreneurial-spirited, conversion-getting hustler** that hits deadlines and **produces bottom-line boosting copy** - without the micromanaging headaches you loathe 
 - I could work collaboratively with your team of stakeholders, designers and developers - or I could fly solo - either way, **you could bet the house that I'm the sure shot you need** 
 
+<br>
+
 <h2 style="text-align: center;" markdown="1">Certified Conversion Copywriting Expert.</h2>
 
 <p float="center">
