@@ -20,7 +20,7 @@ When you need someone to actually bring in more sales and generate a better ROI.
 
 ### You'll need to hire a conversion copywriter
 
-And guess who's in the business of **getting more clicks, increasing conversions and delivering bottom-line boosting results?**
+And guess who's in the business of **getting more clicks, increasing conversions** and **delivering bottom-line boosting results?**
 
 <p style="text-align:center"><img src="http://jakelarue.github.io/img/thisguy2.png"/></p>
 
@@ -28,12 +28,14 @@ And guess who's in the business of **getting more clicks, increasing conversions
 <br>
 
 
-I've been a copywriter since early 2015 - first for my own side projects/businesses, and later for local SMBs and service companies, as well as numerous entrepreneurs and consultants. 
+I've been a copywriter since early 2015 - first for my own projects/businesses, and later for local SMBs and service companies, as well as numerous entrepreneurs and consultants. 
 
 A few things you should know about me:
 
 - I don't write for passion - I write for results
 - I write for my own businesses as well, so you're not dealing with a charlatan - I actually drink my own kool-aid
+- I like to deal straight. No bullshit. No cutting corners. 
+- Dropping out of college was one of the best decisions I made in my life 
 - And I'm a heavy cryptocurrency enthusiast that loves to take random road trips and play poker
 
 
