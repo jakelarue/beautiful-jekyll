@@ -60,9 +60,9 @@ A few things you should know about me:
 <h2 style="text-align: center;" markdown="1">Certified Conversion Copywriting Expert</h2>
 
 <p float="center">
-  <img src="http://jakelarue.github.io/img/IMG_8893.PNG" width="245" />
-  <img src="http://jakelarue.github.io/img/IMG_8894.PNG" width="245" /> 
-  <img src="http://jakelarue.github.io/img/IMG_8895.PNG" width="245" />
+  <img src="http://jakelarue.github.io/img/IMG_8893.PNG" width="247" />
+  <img src="http://jakelarue.github.io/img/IMG_8894.PNG" width="247" /> 
+  <img src="http://jakelarue.github.io/img/IMG_8895.PNG" width="247" />
 </p>
 
 ## Get in touch
