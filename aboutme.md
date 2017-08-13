@@ -56,15 +56,13 @@ A few things you should know about me:
 - I could work collaboratively with your team of stakeholders, designers and developers - or I could fly solo - either way, **you could bet the house that I'm the sure shot you need** 
 
 
-<p style="text-align:center"><img src="http://jakelarue.github.io/img/IMG_8893.PNG"/></p>
+<p style="text-align:left"><img src="http://jakelarue.github.io/img/IMG_8893.PNG"/></p>
 <p style="text-align:center"><img src="http://jakelarue.github.io/img/IMG_8894.PNG"/></p>
-<p style="text-align:center"><img src="http://jakelarue.github.io/img/IMG_8895.PNG"/></p>
-<p style="text-align:center"><img src="http://jakelarue.github.io/img/IMG_8896.PNG"/></p>
+<p style="text-align:right"><img src="http://jakelarue.github.io/img/IMG_8895.PNG"/></p>
 
 
-<img style="float: left;" src="http://jakelarue.github.io/img/IMG_8893.PNG">
-<img style="float: center;" src="http://jakelarue.github.io/img/IMG_8894.PNG">
-<img style="float: right;" src="http://jakelarue.github.io/img/IMG_8895.PNG">
+<img style="float: left;" src="http://jakelarue.github.io/img/IMG_8893.PNG"> <img style="float: center;" src="http://jakelarue.github.io/img/IMG_8894.PNG"> <img style="float: right;" src="http://jakelarue.github.io/img/IMG_8895.PNG">
+
 
 ## Get in touch
 
