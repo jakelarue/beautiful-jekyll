@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I'm Jake
+title: Hi, I'm Jake Suarez
 subtitle: A conversion optimization consultant who writes copy
 ---
 
