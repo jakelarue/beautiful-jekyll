@@ -56,7 +56,7 @@ A few things you should know about me:
 - I could work collaboratively with your team of stakeholders, designers and developers - or I could fly solo - either way, **you could bet the house that I'm the sure shot you need** 
 
 
-<p float="center">
+<p float="left">
   <img src="http://jakelarue.github.io/img/IMG_8893.PNG" width="250" />
   <img src="http://jakelarue.github.io/img/IMG_8894.PNG" width="250" /> 
   <img src="http://jakelarue.github.io/img/IMG_8895.PNG" width="250" />
