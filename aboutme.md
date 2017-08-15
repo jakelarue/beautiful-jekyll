@@ -32,9 +32,9 @@ I've been a copywriter since early 2015 - first for my own projects/businesses, 
 
 A few things you should know about me:
 
-- I don't write for passion - I write for results
-- I write for my own businesses as well, so you're not dealing with a charlatan - I actually drink my own kool-aid
-- I like to deal straight. No bullshit. No cutting corners. 
+- I write for results: clicks and cash - not passion
+- I like to deal straight. No bullshit. No cutting corners.
+- I write for my own businesses as well, so you're not dealing with a charlatan - I actually drink my own kool-aid 
 - Dropping out of college was one of the best decisions I made in my life 
 - And I'm a heavy cryptocurrency enthusiast that loves to take random road trips and play poker
 
@@ -64,7 +64,7 @@ A few things you should know about me:
   <img src="http://jakelarue.github.io/img/IMG_8895.PNG" width="246" />
 </p>
 
-## Get in touch
+## Get in touch to get the ball rolling...
 
 
 You can <a href="mailto:jakeforcopy@gmail.com?subject=What's up, Jake?">email me</a> if you want to get in touch.
