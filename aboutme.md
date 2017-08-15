@@ -56,7 +56,7 @@ A few things you should know about me:
 
 <br>
 
-<h2 style="text-align: center;" markdown="1">Certified Conversion Copywriting Expert</h2>
+<h1 style="text-align: center;" markdown="1">Certified Conversion Copywriting Expert</h1>
 
 <p float="center">
   <img src="http://jakelarue.github.io/img/IMG_8893.PNG" width="246" />
