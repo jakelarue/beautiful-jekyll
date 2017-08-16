@@ -12,7 +12,7 @@ A few things you should know about me:
 - I write for results: clicks and cash - not passion
 - I like to deal straight. No bullshit. No cutting corners.
 - I write for my own businesses as well, so you're not dealing with a charlatan - I actually drink my own kool-aid 
-- Four years ago, I made the best (and the scariest) decision of my life: Dropping out of college and diving face-first into the real world without any skills
+- Four years ago, I made the best (and scariest) decision of my life: Dropping out of college and diving face-first into the real world without any skills
 
 
 
