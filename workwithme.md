@@ -5,7 +5,20 @@ subtitle: To get more clicks, conversions and cash
 ---
 
 
-**Note:** I *don't* write blog posts, but I can point you in the direction of some kick-ass content writers, just ask.
+
+## Great copywriters don't cost you a penny - they make you money
+
+
+
+
+## "Am I a good fit?"
+
+I'm good - but it's tough to sell ice to eskimos... your product or service has to feed a hungry crowd. 
+
+
+
+
+**Quick Note:** I *don't* write blog posts, but I can point you in the direction of some kick-ass content writers, just ask.
 
 ### Terms:
 
